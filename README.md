@@ -1,4 +1,4 @@
-# React Assignment 1
+# React Assignment 2
 
 ## Q1) Render these into component:
 ```bash
